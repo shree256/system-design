@@ -1,4 +1,4 @@
 fastapi==0.80.0 # https://github.com/tiangolo/fastapi
 uvicorn[standard]==0.18.3  # https://github.com/encode/uvicorn
 redis==4.3.4  # https://pypi.org/project/redis/
-redis_om==0.1.0
+pytest==7.1.1
